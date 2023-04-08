@@ -1,7 +1,7 @@
 
-# Your name:
-# Your student id:
-# Your email:
+# Your name: Zhuoxin Qian
+# Your student id: 91718348
+# Your email: zhuoxinq@umich.edu
 # List who you have worked with on this project:
 
 import unittest
